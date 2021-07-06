@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+table {
+  height: 300px;
+  width: 300px;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+#value {
+  color: gray;
+  font-size: 100px;
+}
